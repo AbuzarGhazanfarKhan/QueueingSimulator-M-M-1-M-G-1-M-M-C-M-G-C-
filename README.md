@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Queue Simmulation for Systems Like Banks Resturaunts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+## ScreenShots
+###
+## Single Server
+![image](https://user-images.githubusercontent.com/92223697/218408956-705141b1-b86c-4eaf-8b39-5ba0882a77d6.png)
+## Multi Server
+![image](https://user-images.githubusercontent.com/92223697/218409593-84984170-3486-437e-8035-8bcb621ee804.png)
+
 
 ## Available Scripts
 
